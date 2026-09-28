@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="README-GitHub-Whisper-banner.svg" alt="Whisper — independent research tools and human support" width="100%">
+<img src="banner.svg" alt="Whisper — independent research tools and human support" width="100%">
 
 # WHISPER
 
